@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="QAUtil.QA_util_log_info" />
+          <option value="QAUtil.QA_util_random_with_topic" />
+          <option value="QAUtil.QA_util_to_json_from_pandas" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
